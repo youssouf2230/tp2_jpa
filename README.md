@@ -19,4 +19,8 @@ TP2 : JPA-JDBC-H2
     - Chercher des patients
     - Mettre à jour un patient 
     - supprimer un patient
-      
+7. Migrer de H2 Database vers MySQL
+   ![image](https://github.com/user-attachments/assets/dc966e46-8684-4675-8b17-63e20c56300b)
+8. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
+   
+
